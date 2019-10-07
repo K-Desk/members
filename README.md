@@ -1,6 +1,6 @@
 # KDeskers (K-Desk Members)
 
-* Tio Misbaqul Irawan
+* Tio Misbaqul Irawan ([dvync](https://github.com/indmind))
     ```js
     const loves = ["programming", "reading"]
 
