@@ -9,3 +9,9 @@
     })
     ```
 
+* Muhammad Islahuddin ([islaarema31](https://github.com/islaarema31))
+    ```php
+    $skills = array("speaking","programming","gamers");
+    
+    var_dump($skills);
+    ```
