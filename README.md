@@ -28,7 +28,4 @@
     
     myLove = loves("I Love You")
     ```
-<<<<<<< HEAD
-=======
 
->>>>>>> cf670a5522553aa8ec4a1688b77839475a2294c4
