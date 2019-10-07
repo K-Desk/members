@@ -16,7 +16,7 @@
     var_dump($skills);
     ```
 
-* Alvin Ferdian Akbar([smartPipel](https://github.com/smartPipel))
+* Alvin Ferdian Akbar ([smartPipel](https://github.com/smartPipel))
     ```py
     class loves:
 
@@ -29,3 +29,15 @@
     myLove = loves("I Love You")
     ```
 
+* Abdillahi Aufal Mustachaq ([dillahiro](https://github.com/dillahiro))
+    ```kt
+    val myTime: Int? = null
+    var me = "Time to "
+    
+    when (myTime) {
+        null -> me += "pray"
+        else -> me += "code"
+    }
+    
+    print(me)
+    ```
