@@ -15,3 +15,16 @@
     
     var_dump($skills);
     ```
+
+* Alvin Ferdian Akbar([smartPipel](https://github.com/smartPipel))
+    ```py
+    class loves:
+
+        def __init__(self, love):
+            self.love = love
+
+        def printLove(self):
+            print(self.love)
+    
+    myLove = loves("I Love You")
+    ```
