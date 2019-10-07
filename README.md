@@ -34,9 +34,10 @@
     val myTime: Int? = null
     var me = "Time to "
     
-    when (myTime)
+    when (myTime) {
         null -> me += "pray"
         else -> me += "code"
-        
+    }
+    
     print(me)
     ```
